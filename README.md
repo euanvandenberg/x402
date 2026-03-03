@@ -13,7 +13,7 @@ app.use(
     },
   ),
 );
-// That's it! See examples/ for full details
+// That's it! See examples/ for full details 
 ```
 
 <details>
